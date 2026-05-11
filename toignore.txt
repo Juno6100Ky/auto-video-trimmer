@@ -1,6 +1,0 @@
-*.mp4
-*.ts
-*.mkv
-__pycache__/
-*.venv/
-.env
